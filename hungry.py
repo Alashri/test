@@ -5,4 +5,5 @@ else:
 	thursty=input("are you thursty")
 	if thursty=="yes":
 		print("drink water")
+		print("add soda")
 		  
